@@ -104,6 +104,7 @@ const styles = StyleSheet.create({
   scroll:{
     flex: 1,
     backgroundColor: '#3D9AE5'
+    
   }
 
 })
